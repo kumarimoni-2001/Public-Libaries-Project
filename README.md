@@ -2,9 +2,18 @@
 **Public Libraries Data Analysis**
 1. **Project Overview**
 
-**Objective:**
+**Objective**
+The Public Libraries Data Analysis project aims to analyze the distribution, accessibility, and performance of public libraries across various regions using data-driven insights. By examining patterns in library availability, usage statistics, and demographic reach, the project seeks to:
 
-The Public Libraries Data Analysis project aims to analyze the distribution, accessibility, and performance of public libraries using data-driven insights. Understanding public libraries' availability and usage patterns can help policymakers, educators, and researchers enhance literacy programs and optimize resource allocation.
+Understand how evenly public libraries are distributed.
+
+Evaluate accessibility in urban vs. rural areas.
+
+Analyze usage patterns across different communities.
+
+Identify gaps in resources or services.
+
+Provide actionable insights for policymakers to improve public access and resource allocation.
 
 **Goals:**
 
