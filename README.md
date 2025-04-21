@@ -38,13 +38,28 @@ The successful completion of this project is expected to generate a range of mea
 **1. Cleaned and Structured Dataset**
 A refined dataset, free from errors and inconsistencies, organized for easy analysis. This will include key attributes like library locations, services offered, funding, and demographics.
 
-**2. Key Insights**
 Key Focus Areas
-Demographics: Analyze the populations and communities served by libraries.
+Demographics
 
-Services: Evaluate offerings such as digital access, educational programs, and outreach.
+Analyze the populations and communities served by libraries, focusing on age, income levels, literacy rates, and cultural backgrounds.
 
-Library Locations: Map service coverage to highlight well-served and underserved regions.
+Identify demographic groups that frequently utilize library services versus those that are underrepresented.
+
+Services
+
+Evaluate a wide range of offerings such as digital access (Wi-Fi, eBooks, databases), educational programs (literacy classes, tech training), and community outreach initiatives.
+
+Assess the inclusiveness and accessibility of services for people with disabilities, non-native speakers, and underserved populations.
+
+Library Locations
+
+Map the distribution of library branches to visualize service coverage across urban, suburban, and rural areas.
+
+Highlight areas with limited or no access to public libraries to inform potential expansion or mobile library deployment.
+
+Analyze proximity to schools, public transport, and community centers to determine strategic location planning.
+
+
 **3. Visualizations**
 Clear visual representations such as maps, trend charts, and usage patterns to showcase:
 
