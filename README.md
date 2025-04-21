@@ -9,13 +9,13 @@ Understand how evenly public libraries are distributed.
 
 Evaluate accessibility in urban vs. rural areas.
 
-Analyze usage patterns across different communities.
+Analyze usage patterns across different communities. 
 
 Identify gaps in resources or services.
 
 Provide actionable insights for policymakers to improve public access and resource allocation.
 
-**Goals**
+Goals
 The Public Libraries Data Analysis project aims to achieve the following goals:
 
 Analyze Library Distribution and Services
